@@ -11,7 +11,7 @@ st.sidebar.info(
     )
 # Set the model engine and your OpenAI API key
 model_engine = "text-davinci-003"
-openai.api_key = "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" #follow step 4 to get a secret_key
+openai.api_key = "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" #follow step 4 to get a secret_key
 def main():
     '''
     This function gets the user input, pass it to ChatGPT function and 
