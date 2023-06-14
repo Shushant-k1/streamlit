@@ -21,6 +21,6 @@ def fun(image):
     z = z + text
   return z
 
-img = "page17-1024px-The_Bengali_Book_of_English_Verse.djvu.jpg"
+img = "A_Desk-Book_of_Errors_in_English.djvu.jpg"
 
 print(fun(img))
