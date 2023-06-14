@@ -1,6 +1,6 @@
 import streamlit as st
 import easyocr
-import cv2
+#import cv2
 from PIL import Image
 def fun(image):
   reader = easyocr.Reader(['en']) 
